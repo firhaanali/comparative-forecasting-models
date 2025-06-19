@@ -28,6 +28,6 @@ Each model is evaluated using:
 
 📈 Result and Analysis
 The analysis includes:
-1. Visualisasi Learning Curve tiap model
-2. Perbandingan performa antar metode tuning
-3. Waktu komputasi tiap metode
+1. Visualization of learning curves for each model
+2. Performance comparison across tuning methods
+3. Computation time for each optimization technique
